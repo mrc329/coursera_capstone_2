@@ -1,10 +1,18 @@
 Data
+Broadway and the theater district there are a lot of resturants with diverse food, and different price points. So there will be something for everyone. 
+But in order to find it sucessfully the project will need location data, Foursquare Data and Geospatial Data.
 
-Foursqure
-The Data that will be used will be Foursquare for resturants and theaters. Foursquare will be useful because, I will be able to download the theater and resturant information. 
+New York City Bourugh
+This data set contains the boundries of the boroughs, neighborhoods with their longitude, and latitude.
+Data set- https://cocl.us/new_york_dataset
+Description: This Data Set will allow me to expore the theater district. 
+
+Resturants in Theater Square
+Data Set: Foursquare API
+The Data that will be used will be Foursquare for resturants and theaters, because it will populate the data nand we can filter by resturant type and find how many 
+resturants are in the neighborhood.
 
 GeoSpace Data
-This data source will be useful in determine where the boundries of the theater district are and how we can determine where the resturants are and how many 
-are in the neighborhood.
+This data source will be useful in determine where the boundries of the theater disrict are and how we can determine where the resturants are and how many 
+are in the neighborhood and help us visit a chlorophone map of the theater district. 
 https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm
-
